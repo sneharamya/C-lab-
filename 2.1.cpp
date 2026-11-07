@@ -10,5 +10,4 @@ int main(){
     cout <<"rectangle 4*5="<<area(4,5)<<endl;
     cout <<"triangle b=3,h=8="<<area(3.0,8.0)<<endl;
     return 0;
-
 }
